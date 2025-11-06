@@ -1,0 +1,69 @@
+
+body{
+    background-color: rgba(0, 0, 0, 0.9);
+    color: aliceblue;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+.nav a{
+    text-decoration: none;
+    color: aliceblue;
+    
+
+}
+.home{
+    margin-left: 1200px;
+}
+button{
+    background-color: rgba(0, 157, 255, 0.988);
+    color: rgb(240, 241, 255);
+    border-radius: 15px;
+    margin: 7px;
+    width: 80px;
+    height: 40px;
+    font-weight: bold;
+    font-size: larger;
+    
+}
+button:hover{
+    background-color: blue;
+}
+div{
+    display: flex;
+    justify-content: center;
+    
+}
+form{
+    background-color: rgba(0, 0, 0, 0.205);
+    width: 500px;
+    height: 500px;
+    padding: 20px;
+}
+.name{
+    width: 500px;
+    background-color: black;
+    border: none;
+    height: 35px;
+}
+.password{
+    width: 500px;
+    background-color: black;
+    border: none;
+    height: 35px;
+}
+h3{
+    padding: 15px;
+}
+a{
+    color: blue;
+}
+.div1{
+    display: flex inline;
+    
+   
+}
+.Register{
+    margin-top: 20px;
+}

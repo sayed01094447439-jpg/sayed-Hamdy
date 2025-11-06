@@ -1,0 +1,70 @@
+body{
+    background-color: rgba(0, 0, 0, 0.9);
+    color: aliceblue;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+nav a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.home{
+    margin-left: 800px;
+}
+img{
+    width: 300px;
+    height: 300px;
+    padding: 15px;
+}
+.div1
+{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+    border-radius: 15px;
+    color: aliceblue;
+    
+}
+h2{
+    color: rgb(0, 162, 255);
+    margin: 15px;
+    
+}
+.div2{
+    background-color: rgba(0, 0, 0, 0.205);
+    width: 330px;
+    height: 550px;
+}
+.div3{
+    background-color: rgba(0, 0, 0, 0.205);
+    width: 330px;
+    height: 550px;
+}
+.div4{
+    background-color: rgba(0, 0, 0, 0.205);
+    width: 330px;
+    height: 550px;
+}
+button{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 10px;
+    border-color:rgb(0, 149, 255);
+    width: 120px;
+    height: 50px;
+    margin: 10px;
+}
+p{
+    margin: 10px;
+}
+h3{
+    margin: 10px;
+}
+button:hover{
+    background-color: blue;
+}
+footer{
+    color: aliceblue;
+}
